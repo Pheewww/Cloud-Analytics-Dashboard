@@ -15,7 +15,7 @@ const Navbar = () => {
     >
       <Toolbar>
         <img
-          src="https://assets-global.website-files.com/64b66ad2d48ca7a912ddf3eb/64b66ad2d48ca7a912ddf423_logo.svg"
+          src="https://assets-global.website-files.com/654cc1953659fbce12c35b03/6569aeea89e524678da19e76_Logo%20nav%20bar.svg"
           alt="Logo"
         />
         <Typography
